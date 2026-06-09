@@ -299,5 +299,8 @@ ShopEZ includes 5 simulated payment options:
 - **Bcrypt** — Password security
 
 ---
+## 🎥 Demo Video
 
+[Click here to watch ShopEZ Demo]
+https://drive.google.com/file/d/1sBdX3s6dl0k-djoVawt4NHmjIEpWretL/view?usp=sharing
 
